@@ -1,0 +1,6 @@
+[submodule "solana-agave"]
+	path = solana-agave
+	url = https://github.com/casual-lab/agave.git
+[submodule "solana-plugin"]
+	path = solana-plugin
+	url = https://github.com/casual-lab/solana-plugin.git
